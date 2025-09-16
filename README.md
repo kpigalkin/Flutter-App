@@ -26,7 +26,7 @@
   - Кнопка перехода к оригинальной статье
 - **Расположение**: `lib/screens/article_screen.dart`
 - **Внешний вид**:
-  ![Экран статьи]([assets/images/.png](https://github.com/kpigalkin/Flutter-App/blob/main/assets/images/atricle_screen.png))
+  ![Экран статьи](assets/images/atricle_screen.png)
 
 ### ⚙️ Экран настроек
 - **Назначение**: Настройка параметров приложения
